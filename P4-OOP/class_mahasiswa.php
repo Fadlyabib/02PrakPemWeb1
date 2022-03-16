@@ -1,7 +1,7 @@
 <?php
 class Mahasiswa{
     var $nim;
-    var $namap;
+    var $nama;
     var $thn_angakatan;
     var $prodi;
     var $ipk;
